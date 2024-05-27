@@ -6,3 +6,5 @@
 - Avid football and video games enthusiast.
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sudsali)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudsali&show_icons=true&theme=prussian)
