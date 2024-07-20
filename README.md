@@ -4,6 +4,7 @@
 - Graduating in May 2025.
 - Machine Learning and Data Science Enthusiast.
 - Avid football and video games enthusiast.
+- Currently delving into the field of sports analytics.
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sudsali)](https://git.io/streak-stats)
 
