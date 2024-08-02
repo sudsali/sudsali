@@ -6,7 +6,9 @@
 - Avid football and video games enthusiast.
 - Currently delving into the field of sports analytics.
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sudsali)](https://git.io/streak-stats)
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=sudsali&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudsali&show_icons=true&theme=prussian)
 
