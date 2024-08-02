@@ -5,8 +5,16 @@
 - Machine Learning and Data Science Enthusiast.
 - Avid football and video games enthusiast.
 - Currently delving into the field of sports analytics.
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudsali&show_icons=true&theme=radical&rank_icon=github)          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
-<img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=sudsali&theme=radical"/>
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudsali&layout=compact" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" height=215 src="https://github-readme-stats.vercel.app/api?username=sudsali&show_icons=true&theme=radical&rank_icon=github"/>
+</a>
