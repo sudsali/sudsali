@@ -7,14 +7,10 @@
 - Currently delving into the field of sports analytics.
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sudsali&theme=radical)](https://git.io/streak-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudsali&layout=compact" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudsali&show_icons=true&theme=radical&rank_icon=github)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height=215 src="https://github-readme-stats.vercel.app/api?username=sudsali&show_icons=true&theme=radical&rank_icon=github"/>
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudsali&layout=compact)
+
+![Ashutosh's Github Profile Views](https://komarev.com/ghpvc/?username=sudsali&color=blueviolet)  
