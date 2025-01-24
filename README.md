@@ -8,7 +8,7 @@
 - Currently delving into the field of sports analytics.
 
 
-[![GitHub Streak](https://github-readme-streak-stats-mu-teal.vercel.app?user=sudsali10&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-mu-teal.vercel.app?user=sudsali&theme=radical)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudsali&show_icons=true&theme=radical&rank_icon=github)
 
