@@ -3,7 +3,6 @@
 - Current Master of Science in Computer Science at New York University, New York.
 - Graduating in May 2025.
 - Actively seeking full time roles.
-- Machine Learning and Data Science Enthusiast.
 - Avid football and video games enthusiast.
 - Currently delving into the field of sports analytics.
 
