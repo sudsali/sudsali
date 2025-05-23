@@ -7,7 +7,7 @@
 - Currently delving into the field of sports analytics.
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sudsali)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sudsali&theme=radical)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sudsali&show_icons=true&theme=radical&rank_icon=github)
 
