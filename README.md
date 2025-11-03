@@ -1,9 +1,9 @@
 ## Hi there, I am Sudhanshu Sali👋
 
+- Software Development Engineer @ Amazon.
 - Master of Science in Computer Science graduate student at New York University, New York.
-- Actively seeking full time roles for 2025.
 - Avid football and video games enthusiast.
-- Currently delving into the field of sports analytics.
+- Delving into the field of sports analytics in my off season.
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sudsali&theme=radical)](https://git.io/streak-stats)
